@@ -2,8 +2,6 @@
 
 ### Software Engineer | Frontend Developer | Java Development Student
 
-📍 Stockholm, Sweden
-
 ---
 
 ## 👩‍💻 About Me
