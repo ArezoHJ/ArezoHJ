@@ -18,10 +18,6 @@ I'm passionate about problem-solving, software quality, clean code, and building
 
 🎯 **Current Focus:** Java, backend development, and full-stack development.
 
-🎓 **Education:** Java Development at Nackademin (2026–2028).
-
-📍 **Location:** Stockholm, Sweden.
-
 ---
 
 ## 🛠️ Technical Skills
